@@ -38,6 +38,7 @@ gem 'sprockets', '< 4'
 gem 'sassc-rails'
 gem 'execjs'
 gem 'therubyracer', platforms: :ruby
+gem "faker"
 
 group :development, :test do
   gem 'amazing_print'
